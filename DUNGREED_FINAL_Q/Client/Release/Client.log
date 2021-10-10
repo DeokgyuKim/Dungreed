@@ -1,0 +1,130 @@
+﻿  stdafx.cpp
+  AlphaEffect.cpp
+  AstarMgr.cpp
+  Bansh.cpp
+  BanshBullet.cpp
+  BanshState.cpp
+  Bat.cpp
+  BatBullet.cpp
+  BatItem.cpp
+  BatState.cpp
+  Box.cpp
+  Bullet.cpp
+  Client.cpp
+  CollisionMgr.cpp
+  Command.cpp
+  Dart.cpp
+  DartBullet.cpp
+  DeviceMgr.cpp
+  Effect.cpp
+  EffectIMP.cpp
+  EffectMgr.cpp
+  컴파일하고 있습니다...
+  FireSword.cpp
+  FrameMgr.cpp
+  Guardian.cpp
+  GuardianState.cpp
+  Gun.cpp
+  GunMan.cpp
+  HitBox.cpp
+  Home.cpp
+  IceBullet.cpp
+  IceMagician.cpp
+  IceMagicianBullet.cpp
+  IceMagicianState.cpp
+  IcePillar.cpp
+  IceSpear.cpp
+  Icicle.cpp
+  InputMgr.cpp
+  Inventory.cpp
+Inventory.cpp(57): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+Inventory.cpp(57): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Inventory.cpp(64): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+Inventory.cpp(75): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+Inventory.cpp(75): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Inventory.cpp(188): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+Inventory.cpp(188): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Inventory.cpp(194): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  KeyMgr.cpp
+  LineMgr.cpp
+  Logo.cpp
+  컴파일하고 있습니다...
+  MainGame.cpp
+  MathMgr.cpp
+  MeleeMonster.cpp
+MeleeMonster.cpp(19): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+MeleeMonster.cpp(27): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  Monster.cpp
+  Mouse.cpp
+  MultiTexture.cpp
+  MyEffect.cpp
+  NiflDeadEffect.cpp
+  Niflheim.cpp
+Niflheim.cpp(125): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Niflheim.cpp(204): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Niflheim.cpp(209): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NiflheimState.cpp
+  Obj.cpp
+  ObjectMgr.cpp
+ObjectMgr.cpp(46): warning C4305: '초기화 중': 'int'에서 'float'(으)로 잘립니다.
+  Observer.cpp
+  Player.cpp
+Player.cpp(44): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Player.cpp(153): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Player.cpp(156): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Player.cpp(169): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Player.cpp(172): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PlayerCommand.cpp
+  PlayerObserver.cpp
+  RangedMonster.cpp
+RangedMonster.cpp(19): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+RangedMonster.cpp(27): warning C4800: 'BOOL': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  RapierMan.cpp
+  ResourceEffect.cpp
+  RevolverBullet.cpp
+  컴파일하고 있습니다...
+  Ring.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  ScrollMgr.cpp
+  SealStone.cpp
+  Shield.cpp
+  Shop.cpp
+  ShopUi.cpp
+ShopUi.cpp(45): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+ShopUi.cpp(45): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+ShopUi.cpp(107): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+ShopUi.cpp(107): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SingleTexture.cpp
+  SkullDog.cpp
+  SkullDogState.cpp
+  SoundMgr.cpp
+  Spear.cpp
+  SpeedRing.cpp
+  Stage1.cpp
+  Stage2.cpp
+  Stage3.cpp
+  Stage4.cpp
+  Stage5.cpp
+  StageCrevas.cpp
+  컴파일하고 있습니다...
+  Stamp.cpp
+  StarBullet.cpp
+  SubItem.cpp
+  Subject.cpp
+  Sword.cpp
+  Texture.cpp
+  TextureMgr.cpp
+  TileMgr.cpp
+  TimeMgr.cpp
+  TimeRing.cpp
+  UiMgr.cpp
+  Weapon.cpp
+  Wing.cpp
+  코드를 생성하고 있습니다.
+  0 of 3047 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Client.vcxproj -> C:\Users\Administrator\Desktop\DUNGREED_200203_02\Release\Client.exe
+  Client.vcxproj -> C:\Users\Administrator\Desktop\DUNGREED_200203_02\Release\Client.pdb (Full PDB)

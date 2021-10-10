@@ -1,0 +1,196 @@
+#pragma once
+
+enum DISPLAY_MODE
+{
+	MODE_FULL,
+	MODE_WIN
+};
+
+enum TEXTURE_TYPE
+{
+	SINGLE_TEXTURE,
+	MULTI_TEXTURE
+};
+
+enum OBJECT_TYPE
+{
+	OBJ_TILE,
+	OBJ_SHOP,
+	OBJ_PLAYER,
+	OBJ_MONSTER,
+	OBJ_BOSS,
+	OBJ_ICEPILLAR,
+	OBJ_PLAYER_HITBOX,
+	OBJ_MONSTER_HITBOX,
+	OBJ_EFFECT,
+	OBJECT_END
+};
+
+enum DATA_MESSAGE
+{
+	DATA_PLAYER_HP,
+	DATA_PLAYER_MP,
+	DATA_PLAYER_MATRIX,
+	DATA_PLAYER_POS,
+	DATA_PLAYER_DIR,
+	DATA_PLAYER_RENDERRIGHT,
+	DATA_PLAYER_STATE,
+	DATA_PLAYER_TYPE,
+	DATA_END
+};
+
+namespace KEY
+{
+	enum STATE
+	{
+		JUMP,
+		MOVE_LEFT,
+		MOVE_RIGHT,
+		MOVE_DOWN,
+		ATTACK,
+		DASH,
+		END
+	};
+}
+
+namespace OBJ
+{
+	enum OBJ_TYPE
+	{
+		TILE,
+		PLAYER,
+		SHOP,
+		GREATE_SWORD,
+		FIRE_SWORD,
+		GUN,
+		SPEAR,
+		STAMP,
+		DART,
+		SUBITEM,
+		RING,
+		MONSTER,
+		BOSS,
+		ICE_PILLAR,
+		HITBOX,
+		TERRAIN,
+		BOX,
+		OBJ_EFFECT,
+		OBJ_END
+	};
+}
+
+namespace PLAYER
+{
+	enum TYPE
+	{
+		NORMAL_PLAYER,
+		GUNMAN_PLAYER,
+		RAPIERMAN_PLAYER,
+		PLAYER_END
+	};
+}
+
+namespace EFFECTMGR
+{
+	enum TYPE
+	{
+		ALPHA_EFFECT,
+		RESOURCE_EFFECT,
+		NIFLDEAD_EFFECT,
+		END_EFFECT
+	};
+}
+
+namespace MONSTER
+{
+	enum TYPE
+	{
+		BOX,
+		MELEE_MONSTER,
+		RANGED_MONSTER,
+		BOSS_MONSTER,
+		END
+	};
+}
+
+namespace MELEE_MONSTER
+{
+	enum TYPE
+	{
+		BOX,
+		SKULLDOG,
+		GUARDIAN,
+		END
+	};
+}
+namespace RANGED_MONSTER
+{
+	enum TYPE
+	{
+		BAT,
+		BANSH,
+		ICEMAGICIAN,
+		END
+	};
+};
+
+namespace HITBOX
+{
+	enum TYPE
+	{
+		PLAYER,
+		DART,
+		MONSTER,
+		BAT,
+		BANSH,
+		ICEMAGICIAN,
+		END
+	};
+}
+
+namespace RENDER
+{
+	enum POS
+	{
+		MID,
+		BOTTOM,
+		LEFT,
+		LEFTTOP,
+	};
+}
+
+namespace SUBITEM
+{
+	enum TYPE
+	{
+		SHIELD,
+		BAT,
+		WING,
+		END
+	};
+}
+
+namespace RING
+{
+	enum TYPE
+	{
+		TIME,
+		SPEED,
+		END
+	};
+}
+
+namespace BOX
+{
+	enum TYPE
+	{
+		SHIELD,
+		TIMERING,
+		WING,
+		SPEED,
+		STAMP,
+		DART,
+		FIRESWORD,
+		END
+	};
+}

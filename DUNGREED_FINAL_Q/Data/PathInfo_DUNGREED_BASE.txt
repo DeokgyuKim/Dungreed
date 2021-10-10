@@ -1,0 +1,13 @@
+Logo|LoadingBar|1|..\Resource\Texture\Logo\LoadingBar\LoadingBar.png
+Logo|LoadingBarBase|1|..\Resource\Texture\Logo\LoadingBarBase\LoadingBarBase.png
+Logo|MainLogo|1|..\Resource\Texture\Logo\MainLogo\MainLogo.png
+Logo|Main_Logo|5|..\Resource\Texture\Logo\Main_Logo\Main_Logo%d.png
+Logo|MenuIdle|1|..\Resource\Texture\Logo\MenuIdle\Main.png
+Exit|ExitOff|1|..\Resource\Texture\Menu\Exit\ExitOff\ExitOff%d.png
+Exit|ExitOn|1|..\Resource\Texture\Menu\Exit\ExitOn\ExitOn%d.png
+GameStart|PlayOff|1|..\Resource\Texture\Menu\GameStart\PlayOff\PlayOff%d.png
+GameStart|PlayOn|1|..\Resource\Texture\Menu\GameStart\PlayOn\PlayOn%d.png
+Menu|MenuIdle|1|..\Resource\Texture\Menu\MenuIdle\%d.png
+Menu|Mouse|2|..\Resource\Texture\Menu\Mouse\Mouse%d.png
+Setting|Off|1|..\Resource\Texture\Menu\Setting\Off\OptionOff%d.png
+Setting|On|1|..\Resource\Texture\Menu\Setting\On\OptionOn%d.png
